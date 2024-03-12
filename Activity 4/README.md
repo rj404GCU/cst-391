@@ -1,8 +1,6 @@
 # CST-391 Activity 4
 By Rebecca Johnson
 
-## Part 1 - Basic Angular Components, Events, Routes, & Data Binding
-
 ### Screenshots
 - Main Application screen
 ![Main](main.png)
