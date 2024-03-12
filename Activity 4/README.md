@@ -13,7 +13,7 @@ By Rebecca Johnson
 - Album Display (with tracks) screen
 ![ALbum](displayalbum.png)
 - Add/Create Album
-![Add Album](createalbum.png)
+![Add Album](createAlbum.png)
 #### Research Questions
 
 **Research how an Angular application maintains a logged in state. How does it communicate this state to the server?**
